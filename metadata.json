@@ -1,0 +1,6 @@
+{
+  "name": "GitHub README Generator",
+  "description": "A professional and intuitive client-side GitHub README.md generator with live interactive previews, structured templates, drag-and-drop sections, and one-click export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
