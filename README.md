@@ -4,7 +4,7 @@ A modern and responsive web application that helps developers generate professio
 
 ## 🌐 Live Demo
 
-🔗 **Deployed App:** https://manasippalpalli.vercel.app/
+🔗 **Deployed App:** https://github-readme-file-generator.vercel.app/
 
 ## ✨ Features
 
